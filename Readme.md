@@ -2,6 +2,7 @@
 
 ## Project Title
 Token-Based Voting for Scholarship Allocations
+<img width="1178" alt="Screenshot 2024-12-21 at 2 28 57 PM" src="https://github.com/user-attachments/assets/2f07837b-decc-4665-813a-0dd67ce250fc" />
 
 ## Project Description
 This smart contract facilitates a decentralized, transparent, and token-based voting mechanism for allocating scholarships. Scholarship pools are created with token allocations, and candidates compete based on votes received. The community can vote using tokens, ensuring democratic and equitable decision-making.
